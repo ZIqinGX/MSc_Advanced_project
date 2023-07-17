@@ -11,22 +11,14 @@ exsiting technologies (accessible?). Third, think about technical innovation.
 # week2 Jun19-25
 This online meeting discussed about structure of thesis.
 The outline of thesis usually include : 
-
-Abstract(to tell people what this paper about); 
-
-keywords;
-
-Introduction;
-
-Literature review;
-
-Methodology;
-
-Case study;
-
-User study/Evaluation;
-
-Discussion / Reflection.
+1 Abstract(to tell people what this paper about); 
+2 keywords;
+3 Introduction;
+4 Literature review;
+5 Methodology;
+6 Case study;
+7 User study/Evaluation;
+8 Discussion / Reflection.
 
 I also narrowed my research topic which is how to build a interactive music generation tool? Instrument? which can make audience or composer interact with AI in real time.
 This research topic rising is because using AI to assist music creation mainly focuses on generating symbolic music melodies and tunes, and some explore interactive music creation, but there is still a lack of research in live performances where the audience can also involve the sound, so I want to study how to let the audience participate in the music In the interaction of the performance, maybe to generate some harmony? Different melodies?
