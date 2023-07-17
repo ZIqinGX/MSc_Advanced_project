@@ -1,1 +1,1 @@
-# MSc_Advanced_project_weeklyblog
+# MSc_Advanced_project
