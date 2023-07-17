@@ -11,12 +11,20 @@ exsiting technologies (accessible?). Third, think about technical innovation.
 # week2 Jun19-25
 This online meeting discussed about structure of thesis.
 The outline of thesis usually include : 
+
 Abstract(to tell people what this paper about); 
+
 keywords;
+
 Introduction;
+
 Literature review;
+
 Methodology;
+
 Case study;
+
 User study/Evaluation;
+
 Discussion / Reflection.
 
