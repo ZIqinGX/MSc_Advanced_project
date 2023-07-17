@@ -34,6 +34,7 @@ This research topic rising is because using AI to assist music creation mainly f
 # week3-5 Jun26-July16
 Do not have much progress. Found some papers in related field.
 Read the paper called _Performing with a Generative Electronic Music Controller_
+Link is here: https://hai-gen.github.io/2022/papers/paper-HAIGEN-MartinCharles.pdf
 
 # Week6 July17-July23
 
