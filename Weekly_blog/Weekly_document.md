@@ -43,7 +43,7 @@ His personal website: https://ryan-kirkbride.github.io/
 Ryan Krikbride's paper
 https://www.scienceopen.com/hosted-document?doi=10.14236/ewic/eva2015.61
 
-https://etheses.whiterose.ac.uk/28901/ Collaborative interfaces for ensemble live coding performance
+*Collaborative interfaces for ensemble live coding performance* https://etheses.whiterose.ac.uk/28901/ 
 
 Also found some interesting thing:
 
