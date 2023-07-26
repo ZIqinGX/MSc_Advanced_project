@@ -32,7 +32,7 @@ Link is here: https://hai-gen.github.io/2022/papers/paper-HAIGEN-MartinCharles.p
 
 # Week7 July24-July30
 
-> **July 25**
+**July 25**
 
 Today I found Ryan Kirkbride's wokr, a Python programming environment-- Foxdot and saw his video introducing Live code（Live coding concept）
 
@@ -59,10 +59,12 @@ https://www.youtube.com/watch?v=nypJ3b4rMhE
 
 Using python to create systhesizer
 
-> **July 26**
+ **July 26**
 The concept of live code:
-
-
+> * using code to describe the rules for music
+> * Live notation of composition/notation as performance
+> * Unlike traditional code, you can interact with with code while the program is running
+> * Take computer programming into social plane
 
 
 
