@@ -30,6 +30,25 @@ Link is here: https://hai-gen.github.io/2022/papers/paper-HAIGEN-MartinCharles.p
 
 # Week6 July17-July23
 
+# Week7 July24-July30
+
+Today I found Ryan Kirkbride's wokr, a Python programming environment-- Foxdot and saw his video introducing Live code（Live coding concept）
+Link for Foxdot is https://foxdot.org/ 
+Link for video is https://www.youtube.com/watch?v=XRNFBZlBeuI
+His personal website: https://ryan-kirkbride.github.io/
+Ryan Krikbride's paper
+https://www.scienceopen.com/hosted-document?doi=10.14236/ewic/eva2015.61
+
+https://etheses.whiterose.ac.uk/28901/ Collaborative interfaces for ensemble live coding performance
+
+Also found some interesting thing:
+Genetic Algorithm in python generates music, links are here 
+https://www.youtube.com/watch?v=aOsET8KapQQ
+https://github.com/kiecodes/generate-music
+https://www.youtube.com/watch?v=nypJ3b4rMhE
+
+Using python to create systhesizer
+
 
 
 
