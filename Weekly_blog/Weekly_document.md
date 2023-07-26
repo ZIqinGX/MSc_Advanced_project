@@ -59,6 +59,10 @@ https://www.youtube.com/watch?v=nypJ3b4rMhE
 
 Using python to create systhesizer
 
+> **July 26**
+The concept of live code:
+
+
 
 
 
