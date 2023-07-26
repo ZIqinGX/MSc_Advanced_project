@@ -32,7 +32,9 @@ Link is here: https://hai-gen.github.io/2022/papers/paper-HAIGEN-MartinCharles.p
 
 # Week7 July24-July30
 
-`**July 25**`
+```
+**July 25**
+```
 
 Today I found Ryan Kirkbride's wokr, a Python programming environment-- Foxdot and saw his video introducing Live code（Live coding concept）
 
