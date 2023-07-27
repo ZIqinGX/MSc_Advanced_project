@@ -59,7 +59,7 @@ https://www.youtube.com/watch?v=nypJ3b4rMhE
 
 Using python to create systhesizer
 
- **July 26**
+**July 26**
 The concept of live code:
 > * Using code to describe the rules for music
 > * Live notation of composition/notation as performance
@@ -68,6 +68,10 @@ The concept of live code:
 
 The Algorave music
 
+**July 27**
+
+Today I want to make a personal profolio website and try this code:https://www.kaggle.com/code/karnikakapoor/music-generation-lstm/notebook
+It is a notebook shows how to use LSTM to generate music.
 
 
 
