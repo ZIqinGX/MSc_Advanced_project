@@ -70,7 +70,7 @@ The Algorave music
 
 **July 27**
 
-Today I want to make a personal profolio website and try this code:https://www.kaggle.com/code/karnikakapoor/music-generation-lstm/notebook<br />
+Today I want to make a personal profolio website and try this code:<br /> https://www.kaggle.com/code/karnikakapoor/music-generation-lstm/notebook<br />
 It is a notebook shows how to use LSTM to generate music.
 
 
