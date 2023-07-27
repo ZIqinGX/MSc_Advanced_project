@@ -70,8 +70,11 @@ The Algorave music
 
 **July 27**
 
-Today I want to make a personal profolio website and try this code:<br /> https://www.kaggle.com/code/karnikakapoor/music-generation-lstm/notebook<br />
+Today I want to make a personal portfolio website and try this code:<br /> https://www.kaggle.com/code/karnikakapoor/music-generation-lstm/notebook<br />
 It is a notebook shows how to use LSTM to generate music.
+
+I found a website can build website by preset modules called squarespace.<br />
+linke here  https://www.squarespace.com/ 
 
 
 
