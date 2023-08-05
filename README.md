@@ -10,5 +10,5 @@ I want to explore the collaboration between humans and artificial intelligence i
 
 
 By the way,<br/>
-The file called **Reproduce_LSTM_music** stores my reproduce process of notebook named **Music Generation: LSTM**(from https://www.kaggle.com/code/karnikakapoor/music-generation-lstm/notebook), it is more like trying to figure out how to generate music by machine learning model from the ground. **It is not my outcome but my learning process and my notes.** <br/>
+The file called **Reproduce_LSTM_music** stores my reproduce process of notebook named **Music Generation: LSTM**(from https://www.kaggle.com/code/karnikakapoor/music-generation-lstm/notebook)**It is not my outcome but my learning process and my notes.** <br/>It is more like trying to figure out how to generate music by machine learning model from the ground. 
 The reasons for putting it here are mainly two aspects. First is I want to document my learning process and explanations of code to facilitate future review and reference. Second is for people who see this repository and also have interest in machine learning music generating, but don't know where to start（just like me）. I want to keep a set of study notes for learning, exchanging ideas, and sharing. 
