@@ -76,6 +76,7 @@ It is a notebook shows how to use LSTM to generate music.
 I found a website can build website by preset modules called squarespace.<br />
 linke here  https://www.squarespace.com/ 
 
+# week8 July30-Aug6
 
 
 
