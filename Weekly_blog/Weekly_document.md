@@ -77,8 +77,7 @@ I found a website can build website by preset modules called squarespace.<br />
 linke here  https://www.squarespace.com/ 
 
 # Week8 July30-Aug6
-This week, I reproduced a notebook that generates music using LSTM. The link towards this notebook is https://www.kaggle.com/code/karnikakapoor/music-generation-lstm/notebook#MODEL-BUILDING.
-It used dataset **Classical Music MIDI**, Source of it is here https://www.kaggle.com/datasets/soumikrakshit/classical-music-midi.
+This week, I reproduced a notebook that generates music using LSTM. <br/>The link towards this notebook is https://www.kaggle.com/code/karnikakapoor/music-generation-lstm/notebook#MODEL-BUILDING. It used dataset **Classical Music MIDI**, Source of it is here https://www.kaggle.com/datasets/soumikrakshit/classical-music-midi.
 The process is difficult. Chatgpt and Google were used for explaining code and solve error. The system I use is Ubuntu 22.04. I also use GPU to train model. The process of install GPU driver and set correct CUdnn and CUDA is truly difficult. I will have another part in repository to record how I solve the problem I met and the forum where I found answer. 
 
 
