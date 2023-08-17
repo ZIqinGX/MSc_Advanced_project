@@ -20,3 +20,7 @@ then
 ```
 python3 -m music21.configure
 ```
+3. Download **Scikit-Learn library**<br/>
+```
+conda install scikit-learn
+```
