@@ -7,11 +7,6 @@
  conda install -c conda-forge -y pandas jupyter
  python -m ipykernel install --user --name fyp1
 ```
+Now I have created a virtual environment called **fyp1**
 
-```{python}
-code
-
-code
-```
-
-2. Download library called *music21*
+2. Download library called **music21**
