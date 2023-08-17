@@ -28,8 +28,15 @@ conda install scikit-learn
 ```
 conda install seaborn
 ```
-5.Install pyfluidsynth module
+5.Install **pyfluidsynth** module
 ```
 pip install pyfluidsynth
 ```
+6.Install **pretty_midi**
+```
+pip install pretty_midi
+```
+
+
+
 
