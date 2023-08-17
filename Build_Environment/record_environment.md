@@ -24,3 +24,7 @@ python3 -m music21.configure
 ```
 conda install scikit-learn
 ```
+4.Install **seaborn**<br/>
+```
+conda install seaborn
+```
