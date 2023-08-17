@@ -36,7 +36,10 @@ pip install pyfluidsynth
 ```
 pip install pretty_midi
 ```
-
+7.Download**midi2audio**
+```
+pip install midi2audio
+```
 
 
 
