@@ -28,3 +28,8 @@ conda install scikit-learn
 ```
 conda install seaborn
 ```
+5.Install pyfluidsynth module
+```
+pip install pyfluidsynth
+```
+
