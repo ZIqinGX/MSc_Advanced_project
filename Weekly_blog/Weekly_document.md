@@ -96,6 +96,6 @@ Secondly, if the first exploration is successful, I will try build connection be
 # Week8 Aug14-Aug20
 Install Openpose according to the guidance from link https://developer.aliyun.com/article/889977<br/>
 Source of openpose https://github.com/CMU-Perceptual-Computing-Lab/openpose#installation
-
+Install CMake-gui for Ubuntu https://cgold.readthedocs.io/en/latest/first-step/installation.html
 
 
