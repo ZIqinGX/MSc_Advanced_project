@@ -5,5 +5,7 @@
 conda activate fyp1
 python -m pip install tensorflow
 conda install -c conda-forge -y pandas jupyter
-python -m ipykernel install --user --name fyp1
+python -m ipykernel install --user --name fyp1```
+<br/>
 
+2. Download library called *music21*
