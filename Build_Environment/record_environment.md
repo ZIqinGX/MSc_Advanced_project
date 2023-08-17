@@ -16,3 +16,7 @@ Reference from https://web.mit.edu/music21/doc/installing/installWindows.html <b
 ```
 pip install music21
 ```
+then
+```
+python3 -m music21.configure
+```
