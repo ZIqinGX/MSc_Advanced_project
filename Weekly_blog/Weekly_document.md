@@ -91,8 +91,10 @@ The object I want to achieve is try to train a model which can capture the chang
 Here is a picture can explain my concept:
 
 Then **Heart beat branch**
-Secondly, if the first exploration is successful, I will try build connection between music generating model with heart beat change in future.
+Secondly, if the first exploration is successful, I will try build connection between music generating model with heart beat change in future.<br/>
 
+# Week8 Aug14-Aug20
+Install Openpose from link https://developer.aliyun.com/article/889977
 
 
 
