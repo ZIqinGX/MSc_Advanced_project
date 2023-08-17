@@ -94,7 +94,8 @@ Then **Heart beat branch**
 Secondly, if the first exploration is successful, I will try build connection between music generating model with heart beat change in future.<br/>
 
 # Week8 Aug14-Aug20
-Install Openpose from link https://developer.aliyun.com/article/889977
+Install Openpose according to the guidance from link https://developer.aliyun.com/article/889977<br/>
+Source of openpose https://github.com/CMU-Perceptual-Computing-Lab/openpose#installation
 
 
 
