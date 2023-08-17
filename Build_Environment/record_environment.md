@@ -10,4 +10,5 @@
 ```
 Now I have created a virtual environment called **fyp1**
 
-2. Download library called **music21**
+2. Download library called **music21**<br/>
+Reference from https://web.mit.edu/music21/doc/installing/installWindows.html
