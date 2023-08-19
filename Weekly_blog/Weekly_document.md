@@ -102,4 +102,5 @@ Install CMake-gui for Ubuntu https://cgold.readthedocs.io/en/latest/first-step/i
 Today I found Tensorflow don't have GPU version for python higher than 3.9 and music21 library require python version upper than 3.10
 This is bad... And I also found Ubuntu system that I used to use doesn't support camera in my computer. Also, Ubuntu system met problem when I tried to download Openpose model.
 
-
+This video really helped me to set tensorflow=2.10.0 and download Cudnn and CUDA toolkit after I have work on this problem for soooooo long time.
+https://www.youtube.com/watch?v=Zn6Lp0xaXj4
