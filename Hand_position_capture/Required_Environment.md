@@ -15,3 +15,6 @@ Read more at: https://viso.ai/computer-vision/mediapipe/
 import cv2
 import mediapipe as mp
 ```
+## 2.Display hand keypoints and connections
+
+Code reference：https://blog.csdn.net/dgvv4/article/details/122023047
