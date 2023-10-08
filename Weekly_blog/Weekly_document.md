@@ -107,7 +107,8 @@ https://www.youtube.com/watch?v=Zn6Lp0xaXj4
 
 # Week9 Aug20-Sept8
 The figure below shows plan of First generation.
-https://raw.githubusercontent.com/ZIqinGX/MSc_Advanced_project/main/pictures/First_generation.jpg
+![图片名称](https://raw.githubusercontent.com/ZIqinGX/MSc_Advanced_project/main/pictures/First_generation.jpg) 
+
 
 
 
