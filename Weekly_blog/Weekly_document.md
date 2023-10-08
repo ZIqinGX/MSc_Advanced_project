@@ -110,12 +110,14 @@ The figure below shows plan of **First generation**.<br/>
 ![图片名称](https://raw.githubusercontent.com/ZIqinGX/MSc_Advanced_project/main/pictures/First_generation.jpg) 
 Using an example of generating notes with an LSTM as a reference, first try to reimplement this example. Then, based on the re-implemented LSTM, incorporate human creativity.
 The LSTM model predicts note No.41 based on the previous 40 notes. Upon capturing the Y-coordinate of the hand, it fuses the pitch corresponding to the Y-coordinate with the prior LSTM.
-Achievements so far
+**Achievements so far**
 1. Capture hand（mediapipe+camera in laptop）
 2. Hand position mapping (currently only the y-coordinate has been taken)
-
-
-
+**Development of plan:** The change of pitch is not obvious as duration, so I decided to start from using X coordinates to present duration,as the X coordinates changes, the duration of produced notes will change. 
+**Link of Code：**
+**Problem after running code:**
+1.The number of X-coordinates is not as many as the dataset, so they cannot be directly integrated.
+2.In the first generation of the code, each note or chord was set with a fixed offset.
 
 
 
