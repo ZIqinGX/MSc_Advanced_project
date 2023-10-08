@@ -122,3 +122,13 @@ The LSTM model predicts note No.41 based on the previous 40 notes. Upon capturin
 
 
 
+
+# Week10 Oct2-Oct8
+The figure below shows first solution for **Second generation**.<br/>
+根据第一代的问题，提出的解决方法1是使用不同的结合策略：让LSTM单独预测音符，然后再考虑坐标信息对其进行调整，而不是将坐标信息直接与LSTM的输出结合。于是提出了第二代的解决办法1如图：
+1.让LSTM生成音符No.41后，将映射的X坐标对应的拍子赋予音符No.41，从而解决Y坐标没有dataset的数量这么多，不能直接融合<br/>
+![图片名称](https://github.com/ZIqinGX/MSc_Advanced_project/blob/main/pictures/Second_generation_1.jpg) 
+
+
+
+
