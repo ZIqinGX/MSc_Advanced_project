@@ -1,5 +1,6 @@
 # MSc_Advanced_project
-![图片名称](https://raw.githubusercontent.com/ZIqinGX/MSc_Advanced_project/main/pictures/sheet1.png) 
+![图片名称](https://raw.githubusercontent.com/ZIqinGX/MSc_Advanced_project/main/pictures/sheet1.png) <br/>
+
 Hi! This is repository for my Advanced project. It is the final course of my graduate career. 
 It is a project about machine learning and human computer interaction.
 
