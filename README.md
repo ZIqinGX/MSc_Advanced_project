@@ -19,7 +19,7 @@ Code for first generation<br/>
 https://github.com/ZIqinGX/MSc_Advanced_project/tree/main/First_Generation
 
 
-The figure below shows plan of the first solution in**Second generation**.<br/>
+The figure below shows plan of the first solution for **Second generation**.<br/>
 
 ![图片名称](https://raw.githubusercontent.com/ZIqinGX/MSc_Advanced_project/main/pictures/Second_generation_1.jpg) <br/>
 
