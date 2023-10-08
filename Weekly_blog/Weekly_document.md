@@ -106,8 +106,14 @@ This video really helped me to set tensorflow=2.10.0 and download Cudnn and CUDA
 https://www.youtube.com/watch?v=Zn6Lp0xaXj4
 
 # Week9 Aug20-Sept8
-The figure below shows plan of **First generation**.</br>
+The figure below shows plan of **First generation**.<br/>
 ![图片名称](https://raw.githubusercontent.com/ZIqinGX/MSc_Advanced_project/main/pictures/First_generation.jpg) 
+Using an example of generating notes with an LSTM as a reference, first try to reimplement this example. Then, based on the re-implemented LSTM, incorporate human creativity.
+The LSTM model predicts note No.41 based on the previous 40 notes. Upon capturing the Y-coordinate of the hand, it fuses the pitch corresponding to the Y-coordinate with the prior LSTM.
+Achievements so far
+1. Capture hand（mediapipe+camera in laptop）
+2. Hand position mapping (currently only the y-coordinate has been taken)
+
 
 
 
