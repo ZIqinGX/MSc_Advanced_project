@@ -8,6 +8,14 @@ This repository includes Readme about this project, code of this project and vid
 
 I want to explore the collaboration between humans and artificial intelligence in improvisation and real-time performances.
 
+The figure below shows plan of **First generation**.<br/>
+![图片名称](https://raw.githubusercontent.com/ZIqinGX/MSc_Advanced_project/main/pictures/First_generation.jpg) <br/>
+Code for first generation
+
+
+
+
+
 
 
 By the way,<br/>
