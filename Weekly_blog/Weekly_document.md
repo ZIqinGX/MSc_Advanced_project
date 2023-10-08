@@ -104,3 +104,11 @@ This is bad... And I also found Ubuntu system that I used to use doesn't support
 
 This video really helped me to set tensorflow=2.10.0 and download Cudnn and CUDA toolkit after I have work on this problem for soooooo long time.
 https://www.youtube.com/watch?v=Zn6Lp0xaXj4
+
+# Week9 Aug20-Sept8
+
+
+
+
+
+
