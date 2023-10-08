@@ -11,8 +11,8 @@ I want to explore the collaboration between humans and artificial intelligence i
 The figure below shows plan of **First generation**.<br/>
 
 ![图片名称](https://raw.githubusercontent.com/ZIqinGX/MSc_Advanced_project/main/pictures/First_generation.jpg) <br/>
-Code for first generation
-
+Code for first generation<br/>
+https://github.com/ZIqinGX/MSc_Advanced_project/tree/main/First_Generation
 
 
 
