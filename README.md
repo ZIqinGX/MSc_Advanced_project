@@ -7,7 +7,11 @@ It is a project about machine learning and human computer interaction.I want to 
 **What is my project about?**
 
 
+**How to read this repository**
 
+
+
+**Design process and iteration**
 The figure below shows plan of **First generation**.<br/>
 
 ![图片名称](https://raw.githubusercontent.com/ZIqinGX/MSc_Advanced_project/main/pictures/First_generation.jpg) <br/>
