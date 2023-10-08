@@ -106,8 +106,8 @@ This video really helped me to set tensorflow=2.10.0 and download Cudnn and CUDA
 https://www.youtube.com/watch?v=Zn6Lp0xaXj4
 
 # Week9 Aug20-Sept8
-
-
+The figure below shows plan of First generation.
+https://raw.githubusercontent.com/ZIqinGX/MSc_Advanced_project/main/pictures/First_generation.jpg
 
 
 
