@@ -1,12 +1,12 @@
 # MSc_Advanced_project
 ![图片名称](https://raw.githubusercontent.com/ZIqinGX/MSc_Advanced_project/main/pictures/sheet1.png) <br/>
 
-Hi! This is repository for my Advanced project. It is the final course of my graduate career. 
-It is a project about machine learning and human computer interaction.
+Hi! This is repository for my Advanced project. It is the final course of my graduate career. This repository includes Readme about this project, code of this project and video link. 
+It is a project about machine learning and human computer interaction.I want to explore the collaboration between humans and artificial intelligence in improvisation and real-time performances.
 
-This repository includes Readme about this project, code of this project and video link. 
+**What is my project about?**
 
-I want to explore the collaboration between humans and artificial intelligence in improvisation and real-time performances.
+
 
 The figure below shows plan of **First generation**.<br/>
 
