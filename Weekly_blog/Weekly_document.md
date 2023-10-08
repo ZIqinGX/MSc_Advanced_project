@@ -114,7 +114,8 @@ The LSTM model predicts note No.41 based on the previous 40 notes. Upon capturin
 1.Capture hand（mediapipe+camera in laptop）<br/>
 2.Hand position mapping (currently only the y-coordinate has been taken)<br/>
 **Development of plan:** The change of pitch is not obvious as duration, so I decided to start from using X coordinates to present duration,as the X coordinates changes, the duration of produced notes will change. <br/>
-**Link of Code：** <br/>
+**Store Store the document name**:First_Generation
+**Link of Code：** <br/> 
 **Problem after running code:** <br/>
 1.The number of X-coordinates is not as many as the dataset, so they cannot be directly integrated.
 2.In the first generation of the code, each note or chord was set with a fixed offset.
