@@ -131,5 +131,13 @@ The figure below shows first solution for **Second generation**.<br/>
 ![图片名称](https://github.com/ZIqinGX/MSc_Advanced_project/blob/main/pictures/Second_generation_1.jpg) 
 
 
+# Week10 Oct9-Oct14
+
+This week I collect data such as velocities of hand and duration of midi file for training model in order to find out some possible connection bewteen hand movement and tempo of music.
+
+
+
+
+
 
 
