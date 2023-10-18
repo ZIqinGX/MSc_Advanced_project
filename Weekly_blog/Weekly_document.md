@@ -136,7 +136,7 @@ The figure below shows first solution for **Second generation**.<br/>
 This week I collect data such as velocities of hand and duration of midi file for training model in order to find out some possible connection bewteen hand movement and tempo of music.
 
 # Week10 Oct16-Oct22
-This week I make progress on realtime system. I build a parallel program.
+This week I make progress on realtime system. I build a parallel program to make the whole system become more senstive and respond quicker. Besides, I also trained LSTM model for more epoch.
 
 
 
