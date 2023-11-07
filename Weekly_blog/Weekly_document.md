@@ -138,6 +138,6 @@ This week I collect data such as velocities of hand and duration of midi file fo
 # Week10 Oct16-Oct22
 This week I make progress on realtime system. I build a parallel program to make the whole system become more senstive and respond quicker. Besides, I also trained LSTM model for more epoch.But the result shows there are still much note produced by model will be repeated. So I think maybe I can make some change in dataset because I filtered out some of the notes that occurred less frequently before I built model.
 
-
-
+# Nov6-Nov12
+This week I shoot a video for  my project
 
