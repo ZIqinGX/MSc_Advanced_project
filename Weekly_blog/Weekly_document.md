@@ -125,9 +125,10 @@ The LSTM model predicts note No.41 based on the previous 40 notes. Upon capturin
 
 # Week10 Oct2-Oct8
 The figure below shows first solution for **Second generation**.<br/>
-根据第一代的问题，提出的解决方法1是使用不同的结合策略：让LSTM单独预测音符，然后再考虑坐标信息对其进行调整，而不是将坐标信息直接与LSTM的输出结合。于是提出了第二代的解决办法1如图：
-1.让LSTM生成音符No.41后，将映射的X坐标对应的拍子赋予音符No.41，从而解决Y坐标没有dataset的数量这么多，不能直接融合<br/>
-2.X坐标可以代表每个音符应该播放的时间，从而创建有意义的节奏模式，改进第一代的代码里每个音符或和弦设置了一个固定的偏移量<br/>
+According to problem appeared in first generation, the solution 1 of generation 2 is using different combine strategy: LSTM model predict notes independtly then consider using X-coordinate information to adjust instead of directly make X-coordinates as input for LSTM. So the solution 1 for generation 2 is proposed.
+
+1.Mapped X-coordinates to duration to solve the lackage of coordinates information<br/>
+2.X-coordinates can present duration of notes to perform meaningful tempo.<br/>
 ![图片名称](https://github.com/ZIqinGX/MSc_Advanced_project/blob/main/pictures/Second_generation_1.jpg) 
 
 
