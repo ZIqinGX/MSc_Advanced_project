@@ -135,6 +135,7 @@ According to problem appeared in first generation, the solution 1 of generation 
 # Week11 Oct9-Oct14
 
 This week I collect data such as velocities of hand and duration of midi file for training model in order to find out some possible connection bewteen hand movement and tempo of music.
+Then I found there was not previous connection between hand velocity and music tempo.
 
 # Week12 Oct16-Oct22
 This week I make progress on realtime system. I build a parallel program to make the whole system become more senstive and respond quicker. Besides, I also trained LSTM model for more epoch.But the result shows there are still much note produced by model will be repeated. So I think maybe I can make some change in dataset because I filtered out some of the notes that occurred less frequently before I built model.
