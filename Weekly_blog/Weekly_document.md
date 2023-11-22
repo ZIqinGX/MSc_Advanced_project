@@ -141,7 +141,7 @@ This week I make progress on realtime system. I build a parallel program to make
 # Week13 Oct23-Oct29
 
 # Week14,15 Oct30-Nov12
-
-# Week15 Nov13-Nov23
-This week I shoot a video for  my project
+In week15, I shoot video for showing my project. I invited my model to demonstrate how to use my model. After video editing，i did the voice-over for video and keep finishing my thesis.
+# Week16 Nov13-Nov23
+In this week, I organized code, completed the paper and proof-reading. Finished weekly blog.
 
