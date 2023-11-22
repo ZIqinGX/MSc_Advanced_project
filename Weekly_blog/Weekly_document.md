@@ -116,9 +116,9 @@ The LSTM model predicts note No.41 based on the previous 40 notes. Upon capturin
 **Development of plan:** The change of pitch is not obvious as duration, so I decided to start from using X coordinates to present duration,as the X coordinates changes, the duration of produced notes will change. <br/>
 **Store Store the document name**:First_Generation <br/>
 **Link of Code：** https://github.com/ZIqinGX/MSc_Advanced_project/tree/main/First_Generation <br/> 
-**Evaluation:** <br/>
+**Evaluatioeach note or chord wn:** <br/>
 1.The number of X-coordinates is not as many as the dataset, so they cannot be directly integrated.<br/>
-2.In the first generation of the code, each note or chord was set with a fixed offset.
+2.In the first generation of the code, as set with a fixed offset.
 
 
 
@@ -137,8 +137,11 @@ According to problem appeared in first generation, the solution 1 of generation 
 This week I collect data such as velocities of hand and duration of midi file for training model in order to find out some possible connection bewteen hand movement and tempo of music.
 Then I found there was not previous connection between hand velocity and music tempo.
 ![picture](https://raw.githubusercontent.com/ZIqinGX/MSc_Advanced_project/main/pictures/generation2solution1.png)
+This diagram shows the development of solution2 for generation 2.
+
 # Week12 Oct16-Oct22
 This week I make progress on realtime system. I build a parallel program to make the whole system become more senstive and respond quicker. Besides, I also trained LSTM model for more epoch.But the result shows there are still much note produced by model will be repeated. So I think maybe I can make some change in dataset because I filtered out some of the notes that occurred less frequently before I built model.
+
 
 # Week13 Oct23-Oct29
 In this week, I found the repeated note problem can not be solved quickly, so I adopted post-processed rules to solve this problem. I also changed the serial programming of real-time system to parallel program to make user experience smoother.
