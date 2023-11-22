@@ -147,7 +147,8 @@ This picture is real-time system before improvement
 ![picture](https://raw.githubusercontent.com/ZIqinGX/MSc_Advanced_project/main/pictures/generation3solution2.png)<br/>
 This figure is real-time system after development
 # Week14,15 Oct30-Nov12
-In week15, I shoot video for showing my project. I invited my model to demonstrate how to use my model. After video editing，i did the voice-over for video and keep finishing my thesis.
+In week15, I shoot video for showing my project. I invited my model to demonstrate how to use my model. After video editing，i did the voice-over for video and keep finishing my thesis<br/>
+![picture](https://raw.githubusercontent.com/ZIqinGX/MSc_Advanced_project/main/pictures/finalwork.png)
 # Week16 Nov13-Nov23
 In this week, I organized code, completed the paper and proof-reading. Finished weekly blog.
 
