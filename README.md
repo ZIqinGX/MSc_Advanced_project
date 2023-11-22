@@ -3,7 +3,9 @@
 
 Hi! This is repository for my Advanced project. It is the final course of my graduate career. This repository includes Readme about this project, code of this project and video link. 
 It is a project about machine learning and human computer interaction.I want to explore the collaboration between humans and artificial intelligence in improvisation and real-time performances.<br/>
+
 ![picture](https://raw.githubusercontent.com/ZIqinGX/MSc_Advanced_project/main/pictures/finalwork.png)<br/>
+![pic](https://raw.githubusercontent.com/ZIqinGX/MSc_Advanced_project/main/pictures/finalwork2.png)<vr/>
 **What is my project about?**
 The motivation of creating this porject is I want to have a tool for people without music background like me to enjoy the pleasure of creating music.
 
