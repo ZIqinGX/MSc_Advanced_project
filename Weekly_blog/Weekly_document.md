@@ -131,13 +131,17 @@ The figure below shows first solution for **Second generation**.<br/>
 ![图片名称](https://github.com/ZIqinGX/MSc_Advanced_project/blob/main/pictures/Second_generation_1.jpg) 
 
 
-# Week10 Oct9-Oct14
+# Week11 Oct9-Oct14
 
 This week I collect data such as velocities of hand and duration of midi file for training model in order to find out some possible connection bewteen hand movement and tempo of music.
 
-# Week10 Oct16-Oct22
+# Week12 Oct16-Oct22
 This week I make progress on realtime system. I build a parallel program to make the whole system become more senstive and respond quicker. Besides, I also trained LSTM model for more epoch.But the result shows there are still much note produced by model will be repeated. So I think maybe I can make some change in dataset because I filtered out some of the notes that occurred less frequently before I built model.
 
-# Nov6-Nov12
+# Week13 Oct23-Oct29
+
+# Week14,15 Oct30-Nov12
+
+# Week15 Nov13-Nov23
 This week I shoot a video for  my project
 
