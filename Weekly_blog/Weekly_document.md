@@ -142,9 +142,9 @@ This week I make progress on realtime system. I build a parallel program to make
 
 # Week13 Oct23-Oct29
 In this week, I found the repeated note problem can not be solved quickly, so I adopted post-processed rules to solve this problem. I also changed the serial programming of real-time system to parallel program to make user experience smoother.
-![picture](https://raw.githubusercontent.com/ZIqinGX/MSc_Advanced_project/main/pictures/generation3solution1.png)
+![picture](https://raw.githubusercontent.com/ZIqinGX/MSc_Advanced_project/main/pictures/generation3solution1.png)<br/>
 This picture is real-time system before improvement
-![picture](https://raw.githubusercontent.com/ZIqinGX/MSc_Advanced_project/main/pictures/generation3solution2.png)
+![picture](https://raw.githubusercontent.com/ZIqinGX/MSc_Advanced_project/main/pictures/generation3solution2.png)<br/>
 This figure is real-time system after development
 # Week14,15 Oct30-Nov12
 In week15, I shoot video for showing my project. I invited my model to demonstrate how to use my model. After video editing，i did the voice-over for video and keep finishing my thesis.
