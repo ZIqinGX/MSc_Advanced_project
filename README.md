@@ -5,10 +5,10 @@ Hi! This is repository for my Advanced project. It is the final course of my gra
 It is a project about machine learning and human computer interaction.I want to explore the collaboration between humans and artificial intelligence in improvisation and real-time performances.
 
 **What is my project about?**
-
+The motivation of creating this porject is I want to have a tool for people without music background like me to enjoy the pleasure of creating music.
 
 **How to read this repository**
-
+It goes along the time sequence and the design iteration of my project.
 
 
 **Design process and iteration**
