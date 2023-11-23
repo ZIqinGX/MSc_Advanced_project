@@ -29,6 +29,16 @@ The figure below shows plan of the first solution for **Second generation**.<br/
 
 
 
+For more detailed development, please check my **Weekly blog**: https://github.com/ZIqinGX/MSc_Advanced_project/blob/main/Weekly_blog/Weekly_document.md <br/>
+
+For **environment requirements**, please check: https://github.com/ZIqinGX/MSc_Advanced_project/blob/main/requirements.txt <br/>
+
+To use this system, you can check **4.Final_outcome** https://github.com/ZIqinGX/MSc_Advanced_project/tree/main/4.Final_outcome<br/>
+
+First use 1LSTMmusic - 副本.ipynb<br/>
+Then run code 2_Build_model.ipynb<br/>
+Finally, run 3_realtime_parallel.py<br/>
+
 
 
 
