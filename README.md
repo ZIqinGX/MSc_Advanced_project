@@ -9,7 +9,7 @@ It is a project about machine learning and human computer interaction.I want to 
 **Video Link：** https://youtu.be/WQ1uSLL0rSo<br/>
 
 **What is my project about?**
-The motivation of creating this porject is I want to have a tool for people without music background like me to enjoy the pleasure of creating music.
+The motivation of creating this porject is I want to have a tool for people without music background like me to enjoy the pleasure of creating music. In this project, I designed a AI and human co-create realtime-system for music generation based on reflecting existed art work. This system provides a tool to manipulate duration of notes. Notes is predicted by LSTM. Hand coordinates is captured by MediaPipe framework. Hand coordinates will be mapped to corresponding duraion according to its value.
 
 **How to read this repository**
 It goes along the time sequence and the design iteration of my project.
