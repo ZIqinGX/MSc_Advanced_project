@@ -6,7 +6,8 @@ It is a project about machine learning and human computer interaction.I want to 
 
 ![pic](https://raw.githubusercontent.com/ZIqinGX/MSc_Advanced_project/main/pictures/finalwork2.png)<br/>
 
-Video Link：https://youtu.be/WQ1uSLL0rSo
+**Video Link：** https://youtu.be/WQ1uSLL0rSo<br/>
+
 **What is my project about?**
 The motivation of creating this porject is I want to have a tool for people without music background like me to enjoy the pleasure of creating music.
 
