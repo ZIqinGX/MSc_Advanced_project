@@ -36,7 +36,7 @@ For **environment requirements**, please check: https://github.com/ZIqinGX/MSc_A
 To use this system, you can check **4.Final_outcome** https://github.com/ZIqinGX/MSc_Advanced_project/tree/main/4.Final_outcome<br/>
 
 
-**## Use tip:**
+## **Use tip:**
 First use **1LSTMmusic - 副本.ipynb**<br/>
 Then run code **2_Build_model.ipynb**<br/>
 Finally, run **3_realtime_parallel.py**<br/>
