@@ -252,8 +252,12 @@ def capture_and_render(note_info, done_info):
                             if (not use_model):
                                 n = create_note_by_midi(midi_pitch, dur)
                             else:
-                                n = create_note(notes[note_idx], dur)
-                                note_idx += 1
+                                notes = np.roll(
+                                    np.array(notes), -1).tolist()
+                                n = create_note(
+                                    notes[note_idx],
+                                    dur
+                                )
                             n_name = n.nameWithOctave
                             adjusted_n_name = adjust_to_c_major(n_name)
                             final_note = create_note(adjusted_n_name, dur)
